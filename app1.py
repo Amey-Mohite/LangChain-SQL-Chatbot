@@ -13,8 +13,8 @@ from dotenv import load_dotenv
 import os
 load_dotenv()
 
-## load the GROQ API Key
-os.environ['GROQ_API_KEY']=os.getenv("GROQ_API_KEY")
+## load the GROQ API Key 
+## os.environ['GROQ_API_KEY']=os.getenv("GROQ_API_KEY")
 
 # Set Title in StreamLit
 st.set_page_config(page_title="LangChain: Chat with SQL DB", page_icon="🦜")
