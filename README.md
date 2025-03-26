@@ -22,7 +22,7 @@ A Streamlit web application that allows you to interact with your **SQLite** or 
 
 ## 🖼️ Preview
 
-[demo](https://your-screenshot-url-here.com) <!-- Add a screenshot if available -->
+[demo](https://langchain-sql-chatbot-4wmwp6noyvcazduo9y7x5i.streamlit.app/) <!-- Add a screenshot if available -->
 
 ---
 
