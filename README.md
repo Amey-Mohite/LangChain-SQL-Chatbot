@@ -105,8 +105,3 @@ streamlit run app1.py
 - GROQ API Key
 - (Optional) MySQL database credentials
 
----
-
-## 🔗 Reference
-
-This project was inspired by the course: [Complete Generative AI Course with LangChain and HuggingFace](https://www.udemy.com/course/complete-generative-ai-course-with-langchain-and-huggingface/)
